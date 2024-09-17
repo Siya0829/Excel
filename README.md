@@ -1,9 +1,6 @@
 You can access the sales dashboard directly by clicking https://docs.google.com/spreadsheets/d/1TRL6OcByKZOo0Evi184DW44ZYWRYiFcp/r/edit/edit?gid=81417563#gid=81417563
 
 ### Problem Statement:
-You can access the sales dashboard directly by clicking  
-https://docs.google.com/spreadsheets/d/1TRL6OcByKZOo0Evi184DW44ZYWRYiFcp/r/edit/edit?gid=81417563#gid=81417563
-
 The goal of this project is to build a sales dashboard that provides key insights into the sales and profitability of products across various states, categories, and sub-categories over time. The dashboard should help the business identify top-performing products, trends in sales and profit, and areas requiring attention based on performance metrics. 
 
 Key objectives:
