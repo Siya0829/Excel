@@ -1,6 +1,5 @@
 
-
-<img width="1440" alt="EXCEL PROJECT" src="https://github.com/user-attachments/assets/34f9584a-7857-4932-b965-28e7806b6926">
+<img width="1440" alt="EXCEL PROJECT" src="https://github.com/user-attachments/assets/de807d7b-1f5b-4467-bd73-7ab1e07ff0a5">
 
 
 You can access the sales dashboard directly by clicking https://docs.google.com/spreadsheets/d/1TRL6OcByKZOo0Evi184DW44ZYWRYiFcp/r/edit/edit?gid=81417563#gid=81417563
